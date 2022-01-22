@@ -63,7 +63,7 @@
     "mime-types": "^2.1.22",
     "mkdirp": "^0.5.1",
     "native-css": "^2.0.0",
-    "node-fetch": "^2.3.0",
+    "node-fetch": "^3.1.1",
     "opener": "^1.4.2",
     "parse-color": "^1.0.0",
     "parse5": "^5.1.0",
